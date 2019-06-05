@@ -1,0 +1,2 @@
+以下为标准python项目及启动脚本
+# python_project_sample
