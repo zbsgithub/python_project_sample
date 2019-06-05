@@ -1,0 +1,10 @@
+{
+  "logging": {
+        "path": "/opt/python_project/log",
+        "file": "syn",
+        "format": "%(asctime)s %(thread)s %(filename)s[line:%(lineno)d][%(levelname)s]->%(message)s",
+        "size": 26214400,
+        "count": 10,
+        "level": 20
+    }
+}
